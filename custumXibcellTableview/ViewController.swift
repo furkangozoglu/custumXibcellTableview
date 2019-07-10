@@ -16,6 +16,9 @@ class ViewController: UIViewController {
         
         func test2(){
             
+        
+        func furkan(){
+            print("hello worl44444")
         }
     }
 
